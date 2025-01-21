@@ -1,0 +1,16 @@
+{
+  "name": "backend-journey",
+  "version": "1.0.0",
+  "description": "a backend learning from basic to advanced",
+  "keywords": [
+    "javascript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Sahil Aglawe",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
